@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "name": "karan",
+      "email": "karan@gmail.com",
+      "password": "karan",
+      "id": 1
+    },
+    {
+      "name": "Luka",
+      "email": "lukamagic@77",
+      "password": "Lukamagic",
+      "id": 2
+    },
+    {
+      "name": "Dwight",
+      "email": "Dwight@gmail.com",
+      "password": "Dwight",
+      "id": 3
+    },
+    {
+      "name": "Jalen",
+      "email": "Jalen@gmail.com",
+      "password": "Jalen",
+      "id": 4
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Burger",
+      "servings": 2,
+      "vegan": "Yes",
+      "instruction": "asdfnasdjinfsdns"
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "servings": 2,
+      "vegan": "Yes",
+      "instruction": "asdfnasdjinfsdns"
+    },
+    {
+      "name": "Khichdi",
+      "servings": "2",
+      "vegan": "Yes",
+      "instruction": "fufjguguy",
+      "id": 3
+    },
+    {
+      "name": "Icecream",
+      "servings": "4",
+      "vegan": "Yes",
+      "instruction": "fsodosjf",
+      "id": 4
+    },
+    {
+      "name": "Icecream 4",
+      "servings": "4",
+      "vegan": "Yes",
+      "instruction": "ndghdfghdfhd",
+      "id": 5
+    }
+  ]
+}
